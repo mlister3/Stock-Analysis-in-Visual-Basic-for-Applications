@@ -4,7 +4,7 @@
 
 ## Background - Requirements
 
-> This project uses VBA script to analyze stock market data. In developing the script, the [Test Data] (./VBA Script Test Sample/alphabetical_testing.xlsm)
+> This project uses VBA script to analyze stock market data. In developing the script, the [Test Data](./VBA Script Test Sample/alphabetical_testing.xlsm)
 
 
 
